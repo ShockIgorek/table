@@ -1,0 +1,18 @@
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__element/table__element.css);
+@import url(../blocks/table/__element/_border/table__element_border_pink.css);
+@import url(../blocks/table/__element/_border/table__element_border_yellow.css);
+@import url(../blocks/table/__element/_border/table__element_border_blue.css);
+
+
+@import url(../blocks/table/__element/_mass/table__element_mass.css);
+@import url(../blocks/table/__element/_token/table__element_token.css);
+@import url(../blocks/table/__element/_name/table__element_name.css);
+@import url(../blocks/table/__element/_number/table__element_number.css);
+
+@import url(../blocks/table/__image/table__image.css);

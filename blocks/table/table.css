@@ -1,0 +1,10 @@
+.table {
+    margin: 0;
+    padding: 10px;
+    display: grid;
+    width: 90vw;
+    grid-template-columns: repeat(18, 18fr);
+    grid-template-rows: repeat(7, 7fr);
+    gap: 15px;
+    overflow: hidden;
+}

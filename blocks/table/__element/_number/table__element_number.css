@@ -1,0 +1,7 @@
+.table__element_number{
+    margin: 0;
+    padding: 5px 0 0 5px;
+    font-size: 14px;
+    color: red;
+    position: absolute;
+}

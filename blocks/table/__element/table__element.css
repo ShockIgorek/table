@@ -1,0 +1,6 @@
+.table__element{
+        height: 62px;
+        display: block;
+        margin: 0;
+        overflow:hidden;
+}
